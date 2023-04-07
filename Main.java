@@ -10,7 +10,6 @@ public class Main {
 
 
         PC pc = new PC(motherboard, monitor, pcCase);
-
         pc.description();
         pc.powerUp();
 
